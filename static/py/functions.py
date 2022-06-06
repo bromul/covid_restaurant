@@ -33,6 +33,11 @@ def lemma_pos(text):
 
 def create_word_list(review):
     
+    # Dependencies
+    import nltk
+    from nltk.tokenize import word_tokenize
+    from nltk.corpus import stopwords
+
     # Define stop words
     stop_words = set(stopwords.words('english'))
 
@@ -56,3 +61,22 @@ def create_word_list(review):
     
 
     # Return finalized list
+
+
+###########################################################################
+###########################################################################
+
+# Define function to breakdown business categories and sort them
+def business_categorizer(business):
+    
+    # Dependencies
+    
+    
+    # Breakdown Category
+
+
+    # Check for terms related to restaurants
+    # Drop unrelated businesses
+
+
+    # Return df
