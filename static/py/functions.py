@@ -66,17 +66,17 @@ def create_word_list(review):
 ###########################################################################
 ###########################################################################
 
-# Define function to breakdown business categories and sort them
-def business_categorizer(business):
+# # Define function to breakdown business categories and sort them
+# def business_categorizer(business):
     
-    # Dependencies
+#     # Dependencies
     
     
-    # Breakdown Category
+#     # Breakdown Category
 
 
-    # Check for terms related to restaurants
-    # Drop unrelated businesses
+#     # Check for terms related to restaurants
+#     # Drop unrelated businesses
 
 
-    # Return df
+#     # Return df
